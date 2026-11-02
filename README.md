@@ -4,7 +4,7 @@
 
 A free, offline, interactive course for students, junior SOC analysts and aspiring detection engineers: 21 lessons and 11 hands-on labs in a single HTML file. No sign-up, no tracking, no backend — progress is saved only in your own browser.
 
-![SOC Foundations cover](cover.png)
+
 
 ## What's inside
 
